@@ -1,7 +1,12 @@
 <h2> Olá! Eu sou Daniel Castro.</h2>
 
 <h3>Sobre mim! </h3>
+<p>
+Cursei engenharia de produção durante 4 anos e ao longo desse processo já não me identificava com o mercado que iria atuar. Neste mesmo período saí dos correios, onde eu era concursado e trabalhei por 4 anos, e fui incentivado pelo meus familiais a retomar os estudos em outra área.
 
+Como possuo vários amigos que trabalham e estudam na área do desenvolvimento, conversei com eles sobre o mercado, rotina e outras coisas e aos poucos fui me interessando. Como tive contato com programação durante minha faculdade de
+engenharia e tinha me saído bem, decidi me matricular em Análise e Desenvolvimento de Sistemas no início de 2021, e paralelo com a faculdade fiz dois módulos de desenvolvimento web da Trybe.
+</p>
 <a href="https://github.com/DanielCastroAlves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielCastroAlves&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCastroAlves&theme=buefy&layout=compact" />
