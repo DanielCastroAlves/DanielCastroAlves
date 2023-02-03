@@ -33,6 +33,9 @@ engenharia e tinha me saído bem, decidi me matricular em Análise e Desenvolvim
  <br/>
 
 
+<h3> 🤣 &nbsp;Fato engraçado sobre programação</h3>
+<p>Por que programadores preferem ter uma vida de casado com a tecla de espaço ao invés de viver com um teclado inteiro?</p>
+<p>Porque o espaço é o único amigo fiel que nunca vai faltar!</p>
 
 <br/>
 
