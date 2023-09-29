@@ -35,9 +35,10 @@ Hoje, estou orgulhosamente formado em Análise e Desenvolvimento de Sistemas, te
  <br/>
 
 
-<h3> 🤣 &nbsp;Fato engraçado sobre programação</h3>
-<p>Por que programadores preferem ter uma vida de casado com a tecla de espaço ao invés de viver com um teclado inteiro?</p>
-<p>Porque o espaço é o único amigo fiel que nunca vai faltar!</p>
+
+<p>Quantos programadores são necessários para trocar uma lâmpada?
+
+Nenhum, esse é um problema de hardware! 😄</p>
 
 <br/>
 
