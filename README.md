@@ -6,6 +6,8 @@ Cursei engenharia de produção durante 4 anos e ao longo desse processo já nã
 
 Como possuo vários amigos que trabalham e estudam na área do desenvolvimento, conversei com eles sobre o mercado, rotina e outras coisas e aos poucos fui me interessando. Como tive contato com programação durante minha faculdade de
 engenharia e tinha me saído bem, decidi me matricular em Análise e Desenvolvimento de Sistemas no início de 2021, e paralelo com a faculdade fiz dois módulos de desenvolvimento web da Trybe.
+
+Hoje, estou orgulhosamente formado em Análise e Desenvolvimento de Sistemas, tendo conquistado meu diploma em junho de 2023. Esta conquista representa não apenas o fim de uma etapa, mas também o início de uma emocionante jornada profissional na área que escolhi com paixão e determinação.
 </p>
 <a href="https://github.com/DanielCastroAlves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielCastroAlves&theme=buefy&show_icons=true" />
